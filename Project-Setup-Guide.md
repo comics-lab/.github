@@ -12,6 +12,10 @@ The **comics-lab** organization is a suite of coordinated Python 3 utilities and
 
 This document describes the project architecture, repository design, development conventions, GitHub governance, and security standards for initializing and maintaining the project ecosystem.
 
+Documentation index
+
+For a centralized list of conversation logs, bookmarks, and action logs found across the workspace, see: `../docs/DOCUMENTATION_INDEX.md` (or `docs/DOCUMENTATION_INDEX.md` from repo root). This index points to transcripts and summaries for integrated components such as `comic-file-organizer` and `org_level_Scripts`.
+
 ---
 
 ## Architecture — Option A (“Small-Packages” Multi-Repo)
