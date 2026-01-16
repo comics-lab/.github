@@ -8,12 +8,6 @@
 - `GLOSSARY.md`
 
 
-## Agent and Logs
-
-- Agent profile: `AGENTS.md`
-- Logs (local-only): `CONVERSATION.md`, `BOOKMARKS.md`, `Action-Log.md` (when present)
-
-
 This README describes the overall directory structure of the organization workspace.
 
 ## Appendix: Overall Organization Directory Structure
